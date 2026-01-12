@@ -25,6 +25,7 @@ nav{
     position: fixed;
     top:10px;
     margin-left:2vw;
+    z-index: 2;
 }
 
 .header-name{
@@ -114,7 +115,7 @@ nav{
      .list-items a{
     font-size:large;
     font-weight: bold;
-    margin-right: 55px;
+    margin-right: 50px;
     }
 
     .list-items{
