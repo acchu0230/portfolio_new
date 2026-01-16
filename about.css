@@ -168,13 +168,18 @@
     .edu-det p{
         font-size:15px ;
     }
+
+
+    .edu{
+        margin-bottom: 60px;
+    }
 }
 
 
 @media screen and (min-width:500px) and (max-width:660px){
 
     .container{
-        margin-top: 25vh;
+        margin-top: 27vh;
     }
 
     .about{
@@ -206,12 +211,17 @@
     .edu-det p{
         font-size:13px ;
     }
+
+    .edu{
+        margin-bottom: 60px;
+    }
+
 }
 
 @media screen and (max-width:500px){
 
     .container{
-        margin-top: 25vh;
+        margin-top: 27vh;
     }
 
     .about{
@@ -242,5 +252,9 @@
     }
     .edu-det p{
         font-size:13px ;
+    }
+
+    .edu{
+        margin-bottom: 60px;
     }
 }

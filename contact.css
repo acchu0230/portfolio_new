@@ -81,11 +81,12 @@ a{
 @media screen and (min-width:543px) and (max-width:788px){
 
     .container4{
-        margin-top: 20vh;
+        margin-top: 22vh;
     }
 
     .links{
         grid-template-columns: auto;
+        margin-bottom: 60px;
     }
     .link1 img{
     height:50px;
@@ -96,11 +97,12 @@ a{
 @media screen and (max-width:543px){
 
     .container4{
-        margin-top: 20vh;
+        margin-top: 22vh;
     }
 
     .links{
         grid-template-columns: auto;
+        margin-bottom: 60px;
     }
 
     .link1 img{

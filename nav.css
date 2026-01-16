@@ -22,7 +22,7 @@ span{
     height:20%;
     width: 20%;
     border-radius: 50%;
-    background-color: rgba(200, 128, 239, 0.597);
+    background-color: rgba(172, 111, 241, 0.951);
     margin: auto;
 }
 
@@ -71,7 +71,7 @@ nav{
 
 .list-items a:hover{
     font-weight: bolder;
-    color:#8e8eef;
+    color:#4f4ff3;
     transition: all .2s ease-in-out;
     transform: scale(1.1);
 }
@@ -99,13 +99,14 @@ nav{
     font-size:small;
     font-weight: bold;
 }
+
 }
 
 @media screen and (max-width:637px){
 
     nav{
     top: 0;
-    background-color: #8870e6c9;
+    background-color:#181837f9;
 }
 
     .header-name h1{
@@ -139,4 +140,11 @@ nav{
         margin-bottom: 20px;
         text-align: center;
     }
+    #active{
+    color: #4f4ff3;
+    background-color: white;
+    padding:5px;
+    border-radius: 10px;
+    /* text-decoration: underline; */
+}
 }
