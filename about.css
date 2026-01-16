@@ -55,6 +55,7 @@
     width:70%;
     border-radius: 10px;
     margin: auto;
+    margin-top:-25px;
     box-shadow: -9px 0px 43px 15px rgba(2, 0, 15, 0.319);
     opacity: 0;
     animation: slideText 1s ease-out forwards;
@@ -171,6 +172,11 @@
 
 
 @media screen and (min-width:500px) and (max-width:660px){
+
+    .container{
+        margin-top: 25vh;
+    }
+
     .about{
     display:flex;
     flex-direction: column;
@@ -203,6 +209,11 @@
 }
 
 @media screen and (max-width:500px){
+
+    .container{
+        margin-top: 25vh;
+    }
+
     .about{
     display:flex;
     flex-direction: column;

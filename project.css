@@ -79,6 +79,11 @@ code{
 }
 
 @media screen and (max-width:710px){
+
+    .container3{
+    margin-top:20vh;
+}
+
     .proj-card1{
     margin:2vw auto;
     width:80%;   

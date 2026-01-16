@@ -164,7 +164,7 @@ font-family: "Google Sans", sans-serif;
 
 @media screen and (max-width:518px){
     .container1{
-        margin-top: 10px;
+        margin-top:20vh;
     }
 
     .name{
